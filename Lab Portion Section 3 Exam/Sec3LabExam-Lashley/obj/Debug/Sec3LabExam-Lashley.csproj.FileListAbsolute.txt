@@ -1,0 +1,10 @@
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\bin\Debug\Sec3LabExam-Lashley.exe.config
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\bin\Debug\Sec3LabExam-Lashley.exe
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\bin\Debug\Sec3LabExam-Lashley.pdb
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\obj\Debug\Sec3LabExam-Lashley.csproj.AssemblyReference.cache
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\obj\Debug\Sec3LabExam_Lashley.Form1.resources
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\obj\Debug\Sec3LabExam_Lashley.Properties.Resources.resources
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\obj\Debug\Sec3LabExam-Lashley.csproj.GenerateResource.cache
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\obj\Debug\Sec3LabExam-Lashley.csproj.CoreCompileInputs.cache
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\obj\Debug\Sec3LabExam-Lashley.exe
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Lab Portion Section 3 Exam\Sec3LabExam-Lashley\obj\Debug\Sec3LabExam-Lashley.pdb
