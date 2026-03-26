@@ -1,0 +1,16 @@
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\bin\Debug\net8.0-windows\Week2-Lashley_Project.exe
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\bin\Debug\net8.0-windows\Week2-Lashley_Project.deps.json
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\bin\Debug\net8.0-windows\Week2-Lashley_Project.runtimeconfig.json
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\bin\Debug\net8.0-windows\Week2-Lashley_Project.dll
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\bin\Debug\net8.0-windows\Week2-Lashley_Project.pdb
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\Week2_Lashley_Project.frmFall2025.resources
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\Week2-Lashley_Project.csproj.GenerateResource.cache
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\Week2-Lashley_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\Week2-Lashley_Project.AssemblyInfoInputs.cache
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\Week2-Lashley_Project.AssemblyInfo.cs
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\Week2-Lashley_Project.csproj.CoreCompileInputs.cache
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\Week2-Lashley_Project.dll
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\refint\Week2-Lashley_Project.dll
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\Week2-Lashley_Project.pdb
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\Week2-Lashley_Project.genruntimeconfig.cache
+C:\Users\LaurenLashley\source\repos\Week2-Lashley_Solution\Week2-Lashley_Project\obj\Debug\net8.0-windows\ref\Week2-Lashley_Project.dll
