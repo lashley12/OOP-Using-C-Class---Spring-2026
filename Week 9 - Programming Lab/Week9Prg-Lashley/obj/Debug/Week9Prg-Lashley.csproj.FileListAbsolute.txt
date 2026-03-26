@@ -1,0 +1,10 @@
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\bin\Debug\Week9Prg-Lashley.exe.config
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\bin\Debug\Week9Prg-Lashley.exe
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\bin\Debug\Week9Prg-Lashley.pdb
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\obj\Debug\Week9Prg-Lashley.csproj.AssemblyReference.cache
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\obj\Debug\Week9Prg_Lashley.frmCheckDigit.resources
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\obj\Debug\Week9Prg_Lashley.Properties.Resources.resources
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\obj\Debug\Week9Prg-Lashley.csproj.GenerateResource.cache
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\obj\Debug\Week9Prg-Lashley.csproj.CoreCompileInputs.cache
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\obj\Debug\Week9Prg-Lashley.exe
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Week 9 - Programming Lab\Week9Prg-Lashley\obj\Debug\Week9Prg-Lashley.pdb
