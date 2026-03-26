@@ -1,0 +1,10 @@
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\bin\Debug\CollectionLab-Lashley.exe.config
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\bin\Debug\CollectionLab-Lashley.exe
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\bin\Debug\CollectionLab-Lashley.pdb
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\obj\Debug\CollectionLab-Lashley.csproj.AssemblyReference.cache
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\obj\Debug\CollectionLab_Lashley.frmCollections.resources
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\obj\Debug\CollectionLab_Lashley.Properties.Resources.resources
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\obj\Debug\CollectionLab-Lashley.csproj.GenerateResource.cache
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\obj\Debug\CollectionLab-Lashley.csproj.CoreCompileInputs.cache
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\obj\Debug\CollectionLab-Lashley.exe
+C:\Users\LaurenLashley\source\repos\CollectionLab-Lashley\obj\Debug\CollectionLab-Lashley.pdb
