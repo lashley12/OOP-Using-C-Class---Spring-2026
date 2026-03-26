@@ -1,0 +1,11 @@
+<Project>
+  <!--
+    Put intermediates (obj) outside OneDrive + away from very long paths.
+    Fixes VS/Roslyn "Could not find ... GeneratedMSBuildEditorConfig.editorconfig" when
+    sync or MAX_PATH blocks writes under the assignment folder.
+  -->
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>$(LOCALAPPDATA)\LashleyLab_MSBuild\$(MSBuildProjectName)\obj\</BaseIntermediateOutputPath>
+    <MSBuildProjectExtensionsPath>$(BaseIntermediateOutputPath)</MSBuildProjectExtensionsPath>
+  </PropertyGroup>
+</Project>
