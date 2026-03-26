@@ -1,0 +1,20 @@
+C:\2016-1660-Fall-C#\Module3Exercise2Solution\Module3Exercise2Project\bin\Debug\Module3Exercise2Project.exe.config
+C:\2016-1660-Fall-C#\Module3Exercise2Solution\Module3Exercise2Project\bin\Debug\Module3Exercise2Project.exe
+C:\2016-1660-Fall-C#\Module3Exercise2Solution\Module3Exercise2Project\bin\Debug\Module3Exercise2Project.pdb
+C:\2016-1660-Fall-C#\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.csprojResolveAssemblyReference.cache
+C:\2016-1660-Fall-C#\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.Form1.resources
+C:\2016-1660-Fall-C#\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.Properties.Resources.resources
+C:\2016-1660-Fall-C#\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.csproj.GenerateResource.Cache
+C:\2016-1660-Fall-C#\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.exe
+C:\2016-1660-Fall-C#\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.pdb
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\bin\Debug\Module3Exercise2Project.exe.config
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\bin\Debug\Module3Exercise2Project.exe
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\bin\Debug\Module3Exercise2Project.pdb
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.csproj.AssemblyReference.cache
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.exe.config
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.Form1.resources
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.Properties.Resources.resources
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.csproj.GenerateResource.cache
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.csproj.CoreCompileInputs.cache
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.exe
+\\sust-fs01\users$\llashley\Desktop\Prg C#\Assignments\Week 3 - Programming Lab\Module3Exercise2Solution\Module3Exercise2Project\obj\Debug\Module3Exercise2Project.pdb
