@@ -1,0 +1,10 @@
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\bin\Debug\Project5Lashley.exe.config
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\bin\Debug\Project5Lashley.exe
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\bin\Debug\Project5Lashley.pdb
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\obj\Debug\Project5Lashley.csproj.AssemblyReference.cache
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\obj\Debug\Project5Lashley.frmChoices.resources
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\obj\Debug\Project5Lashley.Properties.Resources.resources
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\obj\Debug\Project5Lashley.csproj.GenerateResource.cache
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\obj\Debug\Project5Lashley.csproj.CoreCompileInputs.cache
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\obj\Debug\Project5Lashley.exe
+C:\Users\LaurenLashley\source\repos\Solution5Lashley\Project5Lashley\obj\Debug\Project5Lashley.pdb
