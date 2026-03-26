@@ -1,0 +1,10 @@
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\bin\Debug\GettysburgsAddress.exe.config
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\bin\Debug\GettysburgsAddress.exe
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\bin\Debug\GettysburgsAddress.pdb
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\obj\Debug\GettysburgsAddress.csproj.AssemblyReference.cache
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\obj\Debug\GettysburgsAddress.Form1.resources
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\obj\Debug\GettysburgsAddress.Properties.Resources.resources
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\obj\Debug\GettysburgsAddress.csproj.GenerateResource.cache
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\obj\Debug\GettysburgsAddress.csproj.CoreCompileInputs.cache
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\obj\Debug\GettysburgsAddress.exe
+C:\Users\LaurenLashley\OneDrive - Oklahoma A and M System\Spring 2026 Classes\Prg C#\Assignments\Section 3 - Week 8 to Week 10 Programming\GettysburgsAddress\obj\Debug\GettysburgsAddress.pdb
