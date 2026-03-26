@@ -1,0 +1,10 @@
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\obj\Debug\Project2ExamLashley.csproj.AssemblyReference.cache
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\obj\Debug\Project2ExamLashley.frmOperations.resources
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\obj\Debug\Project2ExamLashley.Properties.Resources.resources
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\obj\Debug\Project2ExamLashley.csproj.GenerateResource.cache
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\obj\Debug\Project2ExamLashley.csproj.CoreCompileInputs.cache
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\bin\Debug\Project2ExamLashley.exe.config
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\bin\Debug\Project2ExamLashley.exe
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\bin\Debug\Project2ExamLashley.pdb
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\obj\Debug\Project2ExamLashley.exe
+C:\Users\LaurenLashley\source\repos\Solution2ExamLashley\Project2ExamLashley\obj\Debug\Project2ExamLashley.pdb
