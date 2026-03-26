@@ -1,0 +1,10 @@
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\bin\Debug\SectionTwoProgrammingLab.exe.config
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\bin\Debug\SectionTwoProgrammingLab.exe
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\bin\Debug\SectionTwoProgrammingLab.pdb
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\obj\Debug\SectionTwoProgrammingLab.csproj.AssemblyReference.cache
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\obj\Debug\SectionTwoProgrammingLab.Form1.resources
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\obj\Debug\SectionTwoProgrammingLab.Properties.Resources.resources
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\obj\Debug\SectionTwoProgrammingLab.csproj.GenerateResource.cache
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\obj\Debug\SectionTwoProgrammingLab.csproj.CoreCompileInputs.cache
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\obj\Debug\SectionTwoProgrammingLab.exe
+C:\Users\LaurenLashley\source\repos\SectionTwoProgrammingLab\SectionTwoProgrammingLab\obj\Debug\SectionTwoProgrammingLab.pdb
