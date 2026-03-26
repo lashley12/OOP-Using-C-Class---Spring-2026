@@ -1,0 +1,16 @@
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\bin\Debug\net9.0-windows\TeletypeMachine.exe
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\bin\Debug\net9.0-windows\TeletypeMachine.deps.json
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\bin\Debug\net9.0-windows\TeletypeMachine.runtimeconfig.json
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\bin\Debug\net9.0-windows\TeletypeMachine.dll
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\bin\Debug\net9.0-windows\TeletypeMachine.pdb
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\TeletypeMachine.frmTeletype.resources
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\TeletypeMachine.csproj.GenerateResource.cache
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\TeletypeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\TeletypeMachine.AssemblyInfoInputs.cache
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\TeletypeMachine.AssemblyInfo.cs
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\TeletypeMachine.csproj.CoreCompileInputs.cache
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\TeletypeMachine.dll
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\refint\TeletypeMachine.dll
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\TeletypeMachine.pdb
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\TeletypeMachine.genruntimeconfig.cache
+C:\Users\LaurenLashley\source\repos\TeletypeMachine\obj\Debug\net9.0-windows\ref\TeletypeMachine.dll
